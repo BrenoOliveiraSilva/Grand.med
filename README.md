@@ -7,9 +7,9 @@ This is a sample Java application built with Spring Boot to manage the registrat
 - Quick and efficient search of medical professionals and patients.
 
 ### Prerequisites
-- Java JDK 21
-- Spring Boot
-- Maven
+- [Java JDK 21](https://www.oracle.com/br/java/technologies/downloads/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Maven](https://maven.apache.org/download.cgi)
 
 ### Configuration
 You can customize database settings in the application.properties or application.yml file.
