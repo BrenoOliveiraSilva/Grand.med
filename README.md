@@ -9,7 +9,7 @@ This is a sample Java application built with Spring Boot to manage the registrat
 ### Prerequisites
 - Java JDK 21
 - Spring Boot
-- [Maven](https://maven.apache.org/download.cgi)
+- Maven
 
 ### Configuration
 You can customize database settings in the application.properties or application.yml file.
